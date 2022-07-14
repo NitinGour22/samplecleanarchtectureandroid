@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931643910394",
+    "project_id": "samplecleanarchtectureandroid",
+    "storage_bucket": "samplecleanarchtectureandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931643910394:android:1bdac812e8c37b2cae0143",
+        "android_client_info": {
+          "package_name": "com.example.samplecleanarchtectureandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931643910394-sc903ehjjr3gnk7agv0h1r45omnse2v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xATl-iqjYYmW2_n0qoOa65CJI_DWJPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931643910394-sc903ehjjr3gnk7agv0h1r45omnse2v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
